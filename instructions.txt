@@ -1,0 +1,4 @@
+create database matching with HB config file
+create table according to the pojo file.
+change database user, password.
+include the mysql driver.
